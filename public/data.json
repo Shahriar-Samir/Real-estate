@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "estate_title": "Modern Family Home",
+        "segment_name": "Single-family",
+        "image": "https://i.ibb.co/w4xR83L/photo1.jpg",
+        "description": "A modern single-family home with an open floor plan, spacious backyard, and contemporary design.",
+        "price": "$450,000",
+        "status": "sale",
+        "area": "2,500 sq ft",
+        "location": "Austin, TX",
+        "facilities": ["Living room", "Kitchen", "Backyard", "Garage"]
+    },
+    {
+        "id": 2,
+        "estate_title": "Downtown Apartment",
+        "segment_name": "Apartment",
+        "image": "https://i.ibb.co/7N0dKsn/francesca-tosolini-t-Hk-JAMc-O3-QE-unsplash.jpg",
+        "description": "A stylish downtown apartment with city views, modern amenities, and convenient access to shops and restaurants.",
+        "price": "$2,500 per month",
+        "status": "rent",
+        "area": "1,000 sq ft",
+        "location": "San Francisco, CA",
+        "facilities": ["Living room", "Kitchen", "Balcony", "Gym"]
+    },
+    {
+        "id": 3,
+        "estate_title": "Luxury Townhouse",
+        "segment_name": "Townhouse",
+        "image": "https://i.ibb.co/VS8h7jS/mark-tryapichnikov-78-Oth-QBU4b-M-unsplash.jpg",
+        "description": "A luxury townhouse with elegant finishes, a private garage, and a rooftop terrace with panoramic views.",
+        "price": "$750,000",
+        "status": "sale",
+        "area": "3,000 sq ft",
+        "location": "Chicago, IL",
+        "facilities": ["Living room", "Kitchen", "Rooftop terrace", "Garage"]
+    },
+    {
+        "id": 4,
+        "estate_title": "Student Housing",
+        "segment_name": "Student Housing",
+        "image": "https://i.ibb.co/NS3jKgp/chuttersnap-ft-G8-Wc-Hwg7o-unsplash.jpg",
+        "description": "Modern student housing with fully-furnished units, common areas, and easy access to campus.",
+        "price": "$1,200 per month",
+        "status": "rent",
+        "area": "600 sq ft",
+        "location": "Boston, MA",
+        "facilities": ["Living room", "Kitchen", "Study room", "Gym"]
+    },
+    {
+        "id": 5,
+        "estate_title": "Senior Living Community",
+        "segment_name": "Senior Living",
+        "image": "https://i.ibb.co/XbZgYc6/Noahs-Place-Summit-at-Sunland-Springs.jpg",
+        "description": "A senior living community with comfortable apartments, recreational facilities, and healthcare services.",
+        "price": "$3,500 per month",
+        "status": "rent",
+        "area": "800 sq ft",
+        "location": "Miami, FL",
+        "facilities": ["Living room", "Kitchen", "Community center", "Medical services"]
+    },
+    {
+        "id": 6,
+        "estate_title": "Vacation Rental Cabin",
+        "segment_name": "Vacation Rental",
+        "image": "https://i.ibb.co/SNPmjwJ/evan-leith-8-Zmw-Ibj-Oa9o-unsplash.jpg",
+        "description": "A cozy vacation rental cabin nestled in the woods with a fireplace and private hot tub.",
+        "price": "$300 per night",
+        "status": "rent",
+        "area": "1,200 sq ft",
+        "location": "Aspen, CO",
+        "facilities": ["Living room", "Kitchen", "Fireplace", "Hot tub"]
+    }
+]
